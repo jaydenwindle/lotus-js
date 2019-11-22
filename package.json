@@ -1,7 +1,7 @@
 {
-  "name": "@hodgef/js-library-boilerplate-basic",
+  "name": "lotus-js",
   "version": "1.0.22",
-  "description": "Javascript Minimal Starter Kit for building libraries",
+  "description": "Experimental JS client for Lotus Filecoin",
   "main": "build/index.js",
   "scripts": {
     "build": "webpack",
